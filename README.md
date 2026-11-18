@@ -17,9 +17,9 @@
 - [Video](https://www.bilibili.com/video/BV12CYk6UEdH/?spm_id_from=333.1387.homepage.video_card.click)
 
 **Group meeting 6:** Game of Life and continuous artificial life
-- [PPT](https://github.com/AI4Science-WestlakeU/group-meeting-materials/blob/main/5_Game%20of%20Life%20and%20continuous%20artificial%20life.pdf)
+- [PPT](https://github.com/AI4Science-WestlakeU/group-meeting-materials/blob/main/6_Game%20of%20Life%20and%20continuous%20artificial%20life.pdf)
 - [Video](https://www.bilibili.com/video/BV1kLxg6AE9s?spm_id_from=333.788.videopod.sections&vd_source=51fcbf048c02d8860d1a2a372f80bcd6)
 
 **Group meeting 7:** Gaussian Splatting: From 3D reconstruction to physical simulation
-- [PPT](https://github.com/AI4Science-WestlakeU/group-meeting-materials/blob/main/6_Gaussian%20Splatting-%20From%203D%20reconstruction%20to%20physical%20simulation.pdf)
+- [PPT](https://github.com/AI4Science-WestlakeU/group-meeting-materials/blob/main/7_Gaussian%20Splatting-%20From%203D%20reconstruction%20to%20physical%20simulation.pdf)
 - [Video](https://www.bilibili.com/video/BV1L5sz6YEAB/?spm_id_from=333.1387.homepage.video_card.click)

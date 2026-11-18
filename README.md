@@ -16,6 +16,10 @@
 - [PPT](https://github.com/AI4Science-WestlakeU/group-meeting-materials/blob/main/4_On-Policy%20Distillation%20for%20LLM%20Post-Training.pdf)
 - [Video](https://www.bilibili.com/video/BV12CYk6UEdH/?spm_id_from=333.1387.homepage.video_card.click)
 
+**Group meeting 5:**  Mathematics of Origami Design
+- [PPT](https://github.com/AI4Science-WestlakeU/group-meeting-materials/blob/main/5_Mathematics%20of%20Origami%20Design.pdf)
+- [Video](https://www.bilibili.com/video/BV1opnr6cEK2/?spm_id_from=333.1387.homepage.video_card.click)
+
 **Group meeting 6:** Game of Life and continuous artificial life
 - [PPT](https://github.com/AI4Science-WestlakeU/group-meeting-materials/blob/main/6_Game%20of%20Life%20and%20continuous%20artificial%20life.pdf)
 - [Video](https://www.bilibili.com/video/BV1kLxg6AE9s?spm_id_from=333.788.videopod.sections&vd_source=51fcbf048c02d8860d1a2a372f80bcd6)
